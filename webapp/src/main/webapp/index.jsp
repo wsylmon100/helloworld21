@@ -6,3 +6,11 @@ i<h1> Hello, Welcome to Simple DevOps Project Whitney !!   </h1>
 <h1> Did you hear me ... I said. "Hey WHIT YOUR ARE ABOUT TO MAKE THAT DEVOPS MONEEEYYYY"</h1>
 <h1> Did you hear me ... I said. "Hey WHIT YOUR ARE ABOUT TO MAKE THAT DEVOPS MONEEEYYYY"</h1>
 <h1> HEY WHIT YOU MODIFIED THE INDEX.JSP FILE ON 9/18/21 @5:40p.m. --- getting money!!!"</h1>
+<h1> HEY WHIT YOU MODIFIED THE INDEX.JSP FILE ON 9/18/21 @5:40p.m. --- getting money!!!"</h1>
+<h1> Now checking to see if you have a successful build at 5:54pm"</h1>
+
+
+
+
+
+
