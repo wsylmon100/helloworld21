@@ -8,7 +8,7 @@ i<h1> Hello, Welcome to Simple DevOps Project Whitney !!   </h1>
 <h1> HEY WHIT YOU MODIFIED THE INDEX.JSP FILE ON 9/18/21 @5:40p.m. --- getting money!!!"</h1>
 <h1> HEY WHIT YOU MODIFIED THE INDEX.JSP FILE ON 9/18/21 @5:40p.m. --- getting money!!!"</h1>
 <h1> Now checking to see if you have a successful build at 5:54pm"</h1>
-
+<h1> HEY WHIT YOU MODIFIED THE INDEX.JSP FILE ON 10/13/21 @ 11:31PM --- DON'T GIVE UP!!!</h1>
 
 
 
